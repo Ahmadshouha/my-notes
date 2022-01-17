@@ -1,5 +1,5 @@
 # my-notes
-my first project
+small intro about myself
 my name is Ahmad shouha im 25 years old graduated from JUST university as an industrail engineer currently training at fablab irbid at the same time with move-het training course
 im passion about coding and web development in general and i think its going to add so much value to my resume , computing skills and much more, i also studied quality assurance 
 for web sites to be specific the agile work environment
